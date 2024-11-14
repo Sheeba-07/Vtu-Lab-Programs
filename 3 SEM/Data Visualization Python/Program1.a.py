@@ -1,5 +1,6 @@
 '''Write a python program to find the best of two test average marks out of three 
-test marks accepted from the user. '''
+test marks accepted from the user.
+First lab progam'''
 test1 = float(input("Enter Test1 marks: ")) 
 test2 = float(input("Enter Test2 marks: ")) 
 test3 = float(input("Enter Test3 marks: ")) 
